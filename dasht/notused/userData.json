@@ -1,7 +1,7 @@
 [
   {
-    "username": "user1001",
-    "password": "pass1001"
+    "username": "omar1001",
+    "password": "123789"
   },
   {
     "username": "user1002",
@@ -356,10 +356,9 @@
     "password": "pass1089"
   },
   {
-    "username" : "ahmed$#@@admin.dashboard",
-    "password" : "admin$#@aldalildashboard"
+    "username": "ahmed$#@@admin.dashboard",
+    "password": "admin$#@aldalildashboard"
   },
-  
   {
     "username": "user1090",
     "password": "pass1090"
