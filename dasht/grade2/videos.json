@@ -16,12 +16,17 @@
   },
   {
     "id": "1tQYOeBrXLFCxOryr37HQSB-PAlgDv3j8",
-    "thumbnail": "",
+    "thumbnail": "/grades/grade2/5.jpg/",
     "notes": "واجب الدرس 1 PDF"
   },
   {
     "id": "1sGw2-SJRaSGNfoGRboplDG5lPKF69Xx6",
-    "thumbnail": "",
+    "thumbnail": "/grades/grade2/6.jpg/",
     "notes": "شرح الدرس 2"
+  },
+  {
+    "id": "",
+    "thumbnail": "/grades/grade2/7.jpg/",
+    "notes": "واجب الدرس 2 PDF"
   }
 ]
